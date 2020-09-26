@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/keny/Desktop/WebApp/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/keny/Desktop/WebApp/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/keny/Desktop/WebApp/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/keny/Desktop/WebApp/API/API.csproj",
+        "packagesPath": "/Users/keny/.nuget/packages/",
+        "outputPath": "/Users/keny/Desktop/WebApp/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/keny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/keny/Desktop/WebApp/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/keny/Desktop/WebApp/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/keny/Desktop/WebApp/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/keny/Desktop/WebApp/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/keny/Desktop/WebApp/Core/Core.csproj",
+        "packagesPath": "/Users/keny/.nuget/packages/",
+        "outputPath": "/Users/keny/Desktop/WebApp/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/keny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/keny/Desktop/WebApp/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/keny/Desktop/WebApp/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/keny/Desktop/WebApp/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/keny/.nuget/packages/",
+        "outputPath": "/Users/keny/Desktop/WebApp/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/keny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/keny/Desktop/WebApp/Core/Core.csproj": {
+                "projectPath": "/Users/keny/Desktop/WebApp/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/keny/Desktop/WebApp/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.deps.json
+/Users/keny/Desktop/WebApp/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.dll
+/Users/keny/Desktop/WebApp/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.pdb
+/Users/keny/Desktop/WebApp/Infrastructure/bin/Debug/netstandard2.1/Core.dll
+/Users/keny/Desktop/WebApp/Infrastructure/bin/Debug/netstandard2.1/Core.pdb
+/Users/keny/Desktop/WebApp/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csprojAssemblyReference.cache
+/Users/keny/Desktop/WebApp/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/keny/Desktop/WebApp/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs
+/Users/keny/Desktop/WebApp/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CopyComplete
+/Users/keny/Desktop/WebApp/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
+/Users/keny/Desktop/WebApp/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb

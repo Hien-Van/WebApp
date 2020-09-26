@@ -1,0 +1,8 @@
+/Users/keny/Desktop/WebApp/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/keny/Desktop/WebApp/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/keny/Desktop/WebApp/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/keny/Desktop/WebApp/Core/obj/Debug/netstandard2.1/Core.csprojAssemblyReference.cache
+/Users/keny/Desktop/WebApp/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/keny/Desktop/WebApp/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/keny/Desktop/WebApp/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/keny/Desktop/WebApp/Core/obj/Debug/netstandard2.1/Core.pdb
